@@ -20,14 +20,12 @@ export const LandingPage = () => {
                 <Text style={styles.text}>
                     Flow
                 </Text>
-            <Image source={logo} style={styles.logo} />
+                <Image source={logo} style={styles.logo} />
             <RectButton 
                 style={styles.button}
+                onPress={handlePodcastListNavigation}
             >
-                <Text 
-                    style={styles.buttonText}
-                    onPress={handlePodcastListNavigation}
-                >
+                <Text style={styles.buttonText}>
                     Ver Podcasts
                 </Text>
             </RectButton>
