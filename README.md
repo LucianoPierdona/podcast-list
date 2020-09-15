@@ -1,5 +1,5 @@
 # Podcast List
-### Application Made with React-Native and Typescript
+### Application Made with React-Native(Expo) and Typescript
 
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
@@ -23,13 +23,12 @@ yarn add
 ```
 Then run with
 ```
-npm run dev
-# or
-yarn run
+
+expo start
 
 ```
 
 # Screenshots (from my own device)
 
-![Background](https://github.com/LucianoPierdona/podcast-list/blob/master/assets/readme1.jpeg)
-![Background](https://github.com/LucianoPierdona/podcast-list/blob/master/assets/readme2.jpeg)
+<img src="https://github.com/LucianoPierdona/podcast-list/blob/master/assets/readme1.jpeg" width=412 height=914>
+<img src="https://github.com/LucianoPierdona/podcast-list/blob/master/assets/readme2.jpeg" width=412 height=914>
